@@ -82,3 +82,4 @@ my_cur.execute("insert into fruit_load_list values ('from streamlit')")
 
 
 
+
